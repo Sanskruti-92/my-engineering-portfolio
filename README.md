@@ -4,3 +4,5 @@ Hello! My name is Sanskruti Kadam. I am a B.Tech Computer Science and Engineerin
 Learning Java programming and C++
 
 Interested in software development and technology
+
+Goal: Become a skilled software engineer
