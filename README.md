@@ -6,3 +6,7 @@ Learning Java programming and C++
 Interested in software development and technology
 
 Goal: Become a skilled software engineer
+
+## Projects
+
+My projects will be added here as I continue learning software development.
